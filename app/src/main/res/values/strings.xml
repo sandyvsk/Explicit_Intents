@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="hint_name">Pls Enter Your Name</string>
+    <string name="btn1_name">Go to Activity 2</string>
+    <string name="btn2_name">Go to Activity 3</string>
+    <string name="btn3_name">Go to Main Activity</string>
+    <string name="etMessage">Your Message</string>
+</resources>
